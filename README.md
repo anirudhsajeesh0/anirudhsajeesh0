@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Anirudh PS
 
-<!--
-**anirudhsajeesh0/anirudhsajeesh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring MERN Stack Developer | MongoDB | Express.js | React | Node.js
 
-Here are some ideas to get you started:
+I'm a passionate **MERN Stack Developer** focused on building responsive, interactive, and full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
+
+### Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- MySQL
+- SQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- npm
+- Postman
+
+##  Featured Projects
+
+### MERN Stack Projects
+
+- Full-Stack E-commerce Applications
+- Food Delivery Web Applications
+- CRUD Applications
+- Authentication & Login Systems
+- REST API Based Applications
+
+### Frontend Projects
+
+- Responsive Portfolio Websites
+- Netflix Clone
+- Food Delivery Website
+- Hair Salon Booking Website
+- Interactive JavaScript Projects
+
+## Career Goal
+
+I'm currently looking for **MERN Stack Developer, Junior Full Stack Developer, Frontend Developer, Backend Developer, and Web Development Intern** opportunities where I can apply my development skills to build real-world applications and continue growing as a full-stack developer.
